@@ -44,3 +44,19 @@
 - [Windows x86 embeddable zip file](https://github.com/suphero/nexus/releases/download/python-3.8.0/python-3.8.0-embed-win32.zip)
 - [Windows x86 executable installer](https://github.com/suphero/nexus/releases/download/python-3.8.0/python-3.8.0.exe)
 - [Windows x86 web-based installer](https://github.com/suphero/nexus/releases/download/python-3.8.0/python-3.8.0-webinstall.exe)
+
+### 3.7.0
+
+[Sources](https://www.python.org/downloads/release/python-370/)
+
+- [Gzipped source tarball](https://github.com/suphero/nexus/releases/download/python-3.7.0/Python-3.7.0.tgz)
+- [XZ compressed source tarball](https://github.com/suphero/nexus/releases/download/python-3.7.0/Python-3.7.0.tar.xz)
+- [macOS 64-bit/32-bit installer](https://github.com/suphero/nexus/releases/download/python-3.7.0/python-3.7.0-macosx10.6.pkg)
+- [macOS 64-bit installer](https://github.com/suphero/nexus/releases/download/python-3.7.0/python-3.7.0-macosx10.9.pkg)
+- [Windows help file](https://github.com/suphero/nexus/releases/download/python-3.7.0/python370.chm)
+- [Windows x86-64 embeddable zip file](https://github.com/suphero/nexus/releases/download/python-3.7.0/python-3.7.0-embed-amd64.zip)
+- [Windows x86-64 executable installer](https://github.com/suphero/nexus/releases/download/python-3.7.0/python-3.7.0-amd64.exe)
+- [Windows x86-64 web-based installer](https://github.com/suphero/nexus/releases/download/python-3.7.0/python-3.7.0-amd64-webinstall.exe)
+- [Windows x86 embeddable zip file](https://github.com/suphero/nexus/releases/download/python-3.7.0/python-3.7.0-embed-win32.zip)
+- [Windows x86 executable installer](https://github.com/suphero/nexus/releases/download/python-3.7.0/python-3.7.0.exe)
+- [Windows x86 web-based installer](https://github.com/suphero/nexus/releases/download/python-3.7.0/python-3.7.0-webinstall.exe)
