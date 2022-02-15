@@ -2,7 +2,7 @@
 
 ## Python
 
-### 3.10.0
+### [3.10.0](https://github.com/suphero/nexus/releases/tag/python-3.10.0)
 
 [Release Notes](https://www.python.org/downloads/release/python-3100/)
 
@@ -15,7 +15,7 @@
 - [Windows x86 embeddable zip file](https://github.com/suphero/nexus/releases/download/python-3.10.0/python-3.10.0-embed-win32.zip)
 - [Windows x86 executable installer](https://github.com/suphero/nexus/releases/download/python-3.10.0/python-3.10.0.exe)
 
-### 3.9.0
+### [3.9.0](https://github.com/suphero/nexus/releases/tag/python-3.9.0)
 
 [Release Notes](https://www.python.org/downloads/release/python-390/)
 
@@ -30,7 +30,7 @@
 - [Windows x86 executable installer](https://github.com/suphero/nexus/releases/download/python-3.9.0/python-3.9.0.exe)
 - [Windows x86 web-based installer](https://github.com/suphero/nexus/releases/download/python-3.9.0/python-3.9.0-webinstall.exe)
 
-### 3.8.0
+### [3.8.0](https://github.com/suphero/nexus/releases/tag/python-3.8.0)
 
 [Release Notes](https://www.python.org/downloads/release/python-380/)
 
@@ -45,7 +45,7 @@
 - [Windows x86 executable installer](https://github.com/suphero/nexus/releases/download/python-3.8.0/python-3.8.0.exe)
 - [Windows x86 web-based installer](https://github.com/suphero/nexus/releases/download/python-3.8.0/python-3.8.0-webinstall.exe)
 
-### 3.7.0
+### [3.7.0](https://github.com/suphero/nexus/releases/tag/python-3.7.0)
 
 [Release Notes](https://www.python.org/downloads/release/python-370/)
 
