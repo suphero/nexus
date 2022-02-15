@@ -2,6 +2,17 @@
 
 ## Python
 
+### 3.10.0
+
+- [Gzipped source tarball](https://github.com/suphero/nexus/releases/download/python-3.10.0/Python-3.10.0.tgz)
+- [XZ compressed source tarball](https://github.com/suphero/nexus/releases/download/python-3.10.0/Python-3.10.0.tar.xz)
+- [macOS 64-bit installer](https://github.com/suphero/nexus/releases/download/python-3.10.0/python-3.10.0post2-macos11.pkg)
+- [Windows help file](https://github.com/suphero/nexus/releases/download/python-3.10.0/python3100.chm)
+- [Windows x86-64 embeddable zip file](https://github.com/suphero/nexus/releases/download/python-3.10.0/python-3.10.0-embed-amd64.zip)
+- [Windows x86-64 executable installer](https://github.com/suphero/nexus/releases/download/python-3.10.0/python-3.10.0-amd64.exe)
+- [Windows x86 embeddable zip file](https://github.com/suphero/nexus/releases/download/python-3.10.0/python-3.10.0-embed-win32.zip)
+- [Windows x86 executable installer](https://github.com/suphero/nexus/releases/download/python-3.10.0/python-3.10.0.exe)
+
 ### 3.9.0
 
 - [Gzipped source tarball](https://github.com/suphero/nexus/releases/download/python-3.9.0/Python-3.9.0.tgz)
